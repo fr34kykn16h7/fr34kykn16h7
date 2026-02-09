@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fr34kykn16h7
-- 👀 I’m interested in Python Programming and Hthical Hacking
-- 🌱 I’m currently learning Ethical Hacking
+- 👀 I’m interested in Web development and Python Programming 
+- 🌱 I’m currently learning Construction Managment
 - 💞️ I’m looking to collaborate on Python Programming 
 - 📫 How to reach me fr34kykn16h7@gmail.com
 
